@@ -60,6 +60,7 @@ body div{
     border-right-width: 5px;
     border-bottom-width: 0px;
     border-left-width:0;
+    color: #c4c4c4
 }
 
 .blue h2{
@@ -81,7 +82,7 @@ body div{
   }
 
 .green {
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-top-width: 2px;
